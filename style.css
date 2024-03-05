@@ -1,0 +1,71 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 30px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+}
+
+
+
+img{
+width: 40px;
+
+
+
+}
+.avatar
+{width: 150px;
+border-radius: 52%;
+
+
+}  
+.links{
+display: flex;
+
+}
+form{
+    display:flex;
+    flex-direction: column;
+    gap: 5px; 
+    width: 35%;
+    border: 25px black ;
+
+
+
+
+
+
+
+}
+
+button
+{
+
+background-color: rgb(252, 1, 1);   
+border-radius: 12px;
+text-align: center;
+color: rgb(0, 0, 0);
+
+
+
+
+
+
+
+}
